@@ -3,7 +3,6 @@
 var containerDiv = document.getElementById("container-div");
 var instanceURL = "https://anntest.my.connect.aws/ccp-v2/";
 var loginWindow;
-
 var _agent;
 // initialize the streams api
 function init() {
@@ -45,7 +44,7 @@ function init() {
         _agent.onRefresh(function (a) {
             var state = a.getAgentStates()[0];
             a.setState(state, {
-                success: function () { window.alert("success"); },
+                success: function () { window.alert("success");},
                 failure: function () { window.alert("fail"); }
             });
         });
