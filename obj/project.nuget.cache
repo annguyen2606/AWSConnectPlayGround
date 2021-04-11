@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "V7FlYe0OeBtSebSpGNpp0Dg+PIPDM2bIo3rZc4qkHTnuyuQiku4nvQEMyrZAYaE51200uGiE3mwlkQrTsnquig==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\anngu\\source\\repos\\WebApplication1\\WebApplication1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\anngu\\.nuget\\packages\\awssdk.core\\3.7.0.10\\awssdk.core.3.7.0.10.nupkg.sha512"
+  ],
+  "logs": []
+}
